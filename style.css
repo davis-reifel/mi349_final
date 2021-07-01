@@ -39,6 +39,8 @@ h2 {
 
 .contact {
     display: flex;
+    column-gap: normal;
+    text-align: center;
 }
 
 .me {
@@ -73,3 +75,4 @@ h2 {
     opacity: 0.5;
     transition: opacity ease-in-out 0.2s;
 }
+
