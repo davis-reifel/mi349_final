@@ -8,13 +8,15 @@ body {
 }
 
 .row {
-    display: flex;
-    border-top: 5px solid #a8a8a8;
+    
+    padding: 20px;
+    margin: 20px;
 }
 
 .pics { 
-    padding: 20px;
-    margin: 20px;
+    display: flex;
+    border-top: 5px solid #a8a8a8;
+    
 }
 
 .picture {
