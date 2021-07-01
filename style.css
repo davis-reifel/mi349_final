@@ -4,7 +4,7 @@ html {
 
 body {
     font-family: 'Times New Roman', Times, serif;
-    color: #f3f3f3;
+    color: #a8a8a8;
 }
 
 .pics { 
@@ -29,13 +29,20 @@ img {
 
 h1 {
     margin: 15px 0;
-    color: #fff;
+    color: rgb(216, 216, 216);
     text-align: center;
+    margin-top: -500px;
 }
 
 h2 {
     margin: 0;
     font-weight: 100;
+}
+
+h3 {
+    margin: 15px 0;
+    color: #a8a8a8;
+    text-align: center;
 }
 
 .contact {
@@ -57,7 +64,7 @@ h2 {
     box-shadow: rgba(255, 255, 255, 0.1) 0 10px 10px;
     width: 200px;
     border-radius: 50%;
-    margin-top: -300px;
+    margin-top: -250px;
 }
 
 .contacts {
