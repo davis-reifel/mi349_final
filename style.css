@@ -6,7 +6,12 @@ body {
     font-family: 'Times New Roman', Times, serif;
 }
 
-.row { 
+.pics { 
     display: flex;
-    background-color: #111;
+    
+}
+
+.picture {
+    height: 200px;
+    width: 300px;
 }
