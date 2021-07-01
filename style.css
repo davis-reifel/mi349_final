@@ -4,6 +4,7 @@ html {
 
 body {
     font-family: 'Times New Roman', Times, serif;
+    color: #f3f3f3;
 }
 
 .pics { 
@@ -28,6 +29,7 @@ img {
 
 h1 {
     margin: 15px 0;
+    color: #fff;
 }
 
 h2 {
