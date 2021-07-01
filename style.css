@@ -7,9 +7,14 @@ body {
     color: #a8a8a8;
 }
 
-.pics { 
+.row {
     display: flex;
-    
+    border-top: 5px solid #a8a8a8;
+}
+
+.pics { 
+    padding: 20px;
+    margin: 20px;
 }
 
 .picture {
@@ -37,8 +42,8 @@ h1 {
 }
 
 h2 {
-    margin: 0;
-    size: 40px;
+    margin: 15px 0;
+    font-size: 40px;
     color: rgb(216, 216, 216);
     text-align: center;
 }
