@@ -34,13 +34,12 @@ h2 {
 
 .me {
     background-color: #f3f3f3;
-    border-radius: 5px;
     margin: 0 auto;
     width: 1000px;
     text-align: center;
     box-shadow: rgba(0,0,0, 0.1) 10px 10px 20px;
     border: 1px solid #aaa;
-    margin-top: 100px;
+    margin-top: 300px;
 }
 
 .me .avatar {
