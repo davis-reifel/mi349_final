@@ -38,19 +38,15 @@ h1 {
 
 h2 {
     margin: 0;
+    size: 30px;
     font-weight: 100;
     color: rgb(216, 216, 216);
+    text-align: center;
 }
 
 h3 {
     margin: 15px 0;
     color: #a8a8a8;
-    text-align: center;
-}
-
-.contact {
-    display: flex;
-    margin: auto;
     text-align: center;
 }
 
