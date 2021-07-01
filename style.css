@@ -37,17 +37,21 @@ h2 {
     font-weight: 100;
 }
 
+.contact {
+    display: flex;
+}
+
 .me {
-    background-color: #f3f3f3;
+    background-color: #111;
     margin: 0 auto;
     width: 1200px;
     text-align: center;
     box-shadow: rgba(0,0,0, 0.1) 10px 10px 20px;
-    border: 1px solid #aaa;
+    
 }
 
 .me .avatar {
-    box-shadow: rgba(0,0,0, 0.1) 0 10px 10px;
+    box-shadow: rgba(255, 255, 255, 0.1) 0 10px 10px;
     width: 200px;
     border-radius: 50%;
     margin-top: -50px;
