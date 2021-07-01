@@ -9,13 +9,14 @@ body {
 
 .row {
     
-    padding: 20px;
+    padding: 40px;
     margin: 20px;
 }
 
 .pics { 
     display: flex;
     border-top: 5px solid #a8a8a8;
+    text-align: center;
     
 }
 
