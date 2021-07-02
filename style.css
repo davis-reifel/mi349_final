@@ -37,7 +37,7 @@ img {
 h1 {
     margin: 15px 0;
     font-size: 50px;
-    color: rgb(216, 216, 216);
+    color: rgb(255, 255, 255);
     text-align: center;
     margin-top: -300px;
     margin-bottom: 300px;
@@ -62,6 +62,7 @@ p {
     margin-left:  100px;
     margin-right: 100px;
     font-size: 20px;
+    margin-bottom: 50px;
 }
 
 .me {
@@ -81,4 +82,16 @@ p {
 
 .contact {
     margin-bottom: 300px;
+}
+
+#bottom {
+    margin-bottom: 50px;
+}
+
+.bnav {
+    text-align: center;
+}
+
+#bot {
+    margin-bottom: 50pc;
 }
