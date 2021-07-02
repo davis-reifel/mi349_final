@@ -28,14 +28,6 @@ nav {
     font-size: 20px;
 }
 
-.navbar ul li a{
-    color: #fff;
-}
-
-.navbar ul li a:hover{
-    background: #646464;
-}
-
 img {
     width: 100%;
     margin-top: 50px;
