@@ -18,11 +18,12 @@ body {
 .picture {
     height: 200px;
     width: 300px;
-    
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 nav {
-    background-color: #111;
+
     text-align: right;
 }
 
