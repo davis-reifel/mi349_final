@@ -34,6 +34,7 @@ nav {
 
 img {
     width: 100%;
+    margin-top: 50px;
 }
 
 h1 {
@@ -60,7 +61,8 @@ h3 {
 
 p {
     text-align: center;
-    margin: 100px;
+    margin-left:  100px;
+    margin-right: 100px;
 }
 
 .me {
