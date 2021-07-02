@@ -58,6 +58,11 @@ h3 {
     text-align: center;
 }
 
+p {
+    text-align: center;
+    margin: 100px;
+}
+
 .me {
     background-color: #111;
     margin: 0 auto;
